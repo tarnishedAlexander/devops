@@ -1,0 +1,28 @@
+[2025-11-15 22:39:44] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:39:44] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:47:17] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:47:17] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:47:27] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:47:27] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:48:32] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:48:32] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:48:48] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:48:48] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:49:13] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:49:13] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:50:17] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:50:17] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:51:30] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:51:30] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:51:42] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:51:42] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:53:13] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:53:13] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:55:19] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:55:19] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-15 22:57:49] Servicio: nginx | Estado: inactivo
+[2025-11-15 22:57:49] ALERTA: El servicio 'nginx' no está disponible
+[2025-11-16 00:02:42] Servicio: gninx | Estado: inactivo
+[2025-11-16 00:02:42] ALERTA: El servicio 'gninx' no está disponible
+[2025-11-16 00:04:14] Servicio: ssh | Estado: inactivo
+[2025-11-16 00:04:14] ALERTA: El servicio 'ssh' no está disponible

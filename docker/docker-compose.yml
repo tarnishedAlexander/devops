@@ -1,0 +1,23 @@
+services:
+  bash-practice:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: bash-scripting-ubuntu
+    hostname: bash-practice
+    tty: true
+    stdin_open: true
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      # Montar todo el directorio del proyecto
+      - ..:/workspace
+    working_dir: /workspace
+    networks:
+      - bash-network
+    restart: unless-stopped
+
+networks:
+  bash-network:
+    driver: bridge
