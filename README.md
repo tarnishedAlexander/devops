@@ -45,7 +45,7 @@ ls -la
 cd exercise+
 ./the_script.sh
 ```
-## 📁 Structure
+## Structure
 
 ```
 exercises/
